@@ -1,0 +1,25 @@
+name: infection-metabolic-atlas
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python=3.12
+  - pip
+  - pandas
+  - numpy
+  - scipy
+  - matplotlib
+  - statsmodels
+  - scikit-learn
+  - requests
+  - openpyxl
+  - pyarrow
+  - pyyaml
+  - tqdm
+  - beautifulsoup4
+  - h5py
+  - anndata
+  - scanpy
+  - pip:
+      - GEOparse
+      - celltypist

@@ -1,0 +1,40 @@
+# Raw and large processed data
+data/raw/
+data/external/
+data/processed/*.h5ad
+data/processed/*.h5
+data/processed/*.hdf5
+*.h5ad
+*.h5
+*.hdf5
+*.loom
+*.mtx.gz
+*.fastq
+*.fastq.gz
+*.bam
+*.tar
+*.tar.gz
+*.zip
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Local logs / temporary output
+logs/
+tmp/
+temp/

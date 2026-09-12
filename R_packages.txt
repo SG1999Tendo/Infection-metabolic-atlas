@@ -1,0 +1,16 @@
+R 4.3.3
+
+CRAN / base-associated packages:
+data.table
+ggplot2
+Matrix
+msigdbr
+
+Bioconductor packages:
+limma
+DESeq2
+AnnotationDbi
+org.Hs.eg.db
+hta20transcriptcluster.db
+rhdf5
+DropletUtils

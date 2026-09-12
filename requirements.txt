@@ -1,0 +1,17 @@
+pandas
+numpy
+scipy
+matplotlib
+statsmodels
+scikit-learn
+requests
+GEOparse
+openpyxl
+pyarrow
+pyyaml
+tqdm
+beautifulsoup4
+h5py
+anndata
+scanpy
+celltypist
